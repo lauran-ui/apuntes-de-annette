@@ -1,3 +1,5 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
+
+Git es el sistema de control de versiones que registra los cambios en tu código y guarda el historial de tu proyecto, mientras que GitHub es la plataforma en la nube que aloja esos repositorios y facilita trabajar en equipo
